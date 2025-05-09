@@ -3,10 +3,13 @@
 Um jogo de adivinhação de números desenvolvido em **Python** utilizando o framework **Flet** para a interface gráfica. O jogador pode escolher o nível de dificuldade, definir o número de tentativas e tentar descobrir o número mágico gerado aleatoriamente.
 
 ---
-
 ## 📸 Demonstração
 
+### 📷 Imagem:
 ![Screenshot](ftJogoAdivinhação.png)
+
+### 🎥 Vídeo:
+![Video](demo-jogo-adivinhacao.mp4)
 
 ---
 
@@ -51,7 +54,33 @@ Se as tentativas acabarem, o número correto é revelado.
 
 ## ▶️ Como Executar
 
-### 📦 Instalar dependências:
+Se você deseja executar este jogo na sua máquina, siga o passo a passo abaixo:
+
+---
+
+### 📥 1️⃣ Clonar o repositório
+
+Abra o terminal no diretório onde deseja salvar o projeto e execute o comando abaixo para clonar o repositório:
+
+```bash
+git clone https://github.com/brunonvsdev/jogo-adivinhacao.git
+```
+### 📚 2️⃣ Instalar as dependências
+Após clonar o repositório, acesse a pasta do projeto na sua IDE ou pelo terminal, e instale a biblioteca necessária para rodar o jogo com o comando:
 
 ```bash
 pip install flet
+```
+
+### 🚀 3️⃣ Executar o jogo
+Por fim, para iniciar o jogo, execute o comando abaixo no terminal:
+```bash
+python app.py
+```
+O jogo será aberto automaticamente em uma janela ou no navegador padrão. Divirta-se tentando adivinhar o número mágico!
+
+
+
+
+
+
