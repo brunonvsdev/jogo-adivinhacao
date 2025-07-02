@@ -9,7 +9,7 @@ Um jogo de adivinhação de números desenvolvido em **Python** utilizando o fra
 ![Screenshot](ftJogoAdivinhação.png)
 
 ### 🎥 Vídeo:
-[Baixe o vídeo da demonstração](demo-jogo-adivinhacao.mp4)
+![](demo-jogo-adivinhacao.mp4)
 
 ---
 
