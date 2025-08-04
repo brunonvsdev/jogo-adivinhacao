@@ -15,7 +15,7 @@ from game_logic import JogoAdivinhacao
 
 def main(page: ft.Page):
     """
-    Função principal que configura e executa a interface do jogo.
+    Função principal que configura e executa a interface do jogo
     
     Args:
         page (ft.Page): Objeto página do Flet para construção da interface
