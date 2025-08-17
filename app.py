@@ -15,13 +15,13 @@ from game_logic import JogoAdivinhacao
 
 def main(page: ft.Page):
     """
-    Função principal que configura e executa a interface do jogo.
+    Função principal que configura e executa a interface do jogo
     
     Args:
-        page (ft.Page): Objeto página do Flet para construção da interface
+        page (ft.Page): Objeto página do Flet para construção da interface.
     """
     
-    # Configurações básicas da página
+    # Configurações básicas da página.
     page.title = "🔮 Adivinhe o Número Mágico"
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
