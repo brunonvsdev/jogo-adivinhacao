@@ -14,7 +14,7 @@ import random
 
 class JogoAdivinhacao:
     """
-    Classe principal que gerencia a lógica do jogo de adivinhação numérica.
+    Classe principal que gerencia lógica do jogo de adivinhação numérica.
     
     Atributos:
         numero_certo (int): Número aleatório a ser adivinhado
