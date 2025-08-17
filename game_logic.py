@@ -1,5 +1,5 @@
 """
-Módulo game_logic.py - Lógica principal do jogo de adivinhação
+Módulo game_logic.py - Lógica principal do jogo de adivinhação.
 
 Este módulo contém a classe JogoAdivinhacao que implementa toda a lógica do jogo,
 incluindo seleção de nível, geração do número aleatório e verificação de palpites.
