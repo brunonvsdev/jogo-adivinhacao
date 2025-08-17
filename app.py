@@ -1,5 +1,5 @@
 """
-Módulo app.py - Interface gráfica do jogo de adivinhação
+Módulo app.py - Interface gráfica do jogo de adivinhação.
 
 Este módulo implementa a interface responsiva do jogo usando Flet, integrando-se
 com a lógica do jogo definida em game_logic.py. A interface se adapta automaticamente
